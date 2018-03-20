@@ -1,5 +1,5 @@
 div {
-    outline: 1px solid red;
+    outline: 1px solid black;
 }
 
 .container {
@@ -11,8 +11,8 @@ div {
 .header {
     background-color: blue;
     height: 200px;
-    width: 900px;
-    padding: 20px;
+    width: 920px;
+    
 }
 
 .logo {
@@ -20,13 +20,22 @@ div {
     width: 160px;
     height: 160px;
     float: right;
+    margin-right: 20px;
+    margin-top: 20px;
     
 }
 
-.green {
-    background-color: greenyellow;
-    height: 200px;
-    width: 100%;
+.green_1 {
+    background-color: red;
+    height: 500px;
+    width: 306px;
+}
+
+.green_2 {
+    background-color: red;
+    height: 500px;
+    width: 612px;
+    float: right;
 }
 
 .yellow_1 {
