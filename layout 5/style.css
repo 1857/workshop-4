@@ -1,0 +1,76 @@
+div {
+    outline: 1px solid red;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+}
+
+.logo {
+    background-color: yellow;
+    width: 160px;
+    height: 160px;
+    float: right;
+    margin 200px;
+}
+
+.green {
+    background-color: greenyellow;
+    height: 200px;
+    width: 100%;
+}
+
+.yellow_1 {
+    width: 430px;
+    height: 160px;
+    background-color: yellow;
+    margin: 20px 10px 10px 20px;   
+    float: left;  
+}
+    
+.yellow_2 {
+    width: 430px;
+    height: 160px;
+    background-color: yellow;
+    margin: 20px 10px 20px 10px;   
+    float: left;
+}
+    
+
+.yellow_3 {
+    width: 430px;
+    height: 360px;
+    background-color: yellow;
+    margin: 20px 10px 10px 20px;   
+    float: left;
+}
+    
+.yellow_4 {
+    width: 430px;
+    height: 360px;
+    background-color: yellow;
+    margin: 20px 10px 20px 10px;   
+    float: left;
+}
+
+.box_1 {
+    width: 920px;
+    height: 400px;
+    background-color: red;
+}
+
+.footer {
+    height: 200px;
+    width: 920px;
+    float: left;
+    background-color: aquamarine;
+    
+}
