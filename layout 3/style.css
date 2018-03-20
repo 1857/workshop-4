@@ -14,10 +14,17 @@ div {
     width: 100%;
 }
 
-.box_1 {
-    width: 306px;
-    height: 400px;
+.yellow {
+    width: 440px;
+    height: 360px;
+    background-color: yellow;
+    margin: 10px;   
     float: left;
+}
+
+.box_1 {
+    width: 920px;
+    height: 400px;
     background-color: burlywood;
 }
 
