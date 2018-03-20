@@ -9,12 +9,35 @@ div {
 }
 
 .header {
-    background-color: aqua;
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+}
+
+.green {
+    background-color: greenyellow;
     height: 200px;
     width: 100%;
 }
 
 .yellow_1 {
+    width: 430px;
+    height: 160px;
+    background-color: yellow;
+    margin: 20px 10px 10px 20px;   
+    float: left;  
+}
+    
+.yellow_2 {
+    width: 430px;
+    height: 160px;
+    background-color: yellow;
+    margin: 20px 10px 20px 10px;   
+    float: left;
+}
+    
+
+.yellow_3 {
     width: 430px;
     height: 360px;
     background-color: yellow;
@@ -22,7 +45,7 @@ div {
     float: left;
 }
     
-.yellow_2 {
+.yellow_4 {
     width: 430px;
     height: 360px;
     background-color: yellow;
