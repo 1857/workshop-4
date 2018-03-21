@@ -21,9 +21,21 @@ div {
     height: 160px;
     float: right;
     margin-right: 20px;
+    margin-right: 20px;
     margin-top: 20px;
     
 }
+
+.logo_2 {
+    background-color: yellow;
+    width: 160px;
+    height: 160px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
 
 .green_1 {
     background-color: red;
@@ -38,37 +50,13 @@ div {
     float: right;
 }
 
-.yellow_1 {
-    width: 430px;
-    height: 160px;
+.box_2 {
     background-color: yellow;
-    margin: 20px 10px 10px 20px;   
-    float: left;  
-}
-    
-.yellow_2 {
-    width: 430px;
-    height: 160px;
-    background-color: yellow;
-    margin: 20px 10px 20px 10px;   
+    height: 460px;
+    width: 390px;
     float: left;
-}
-    
-
-.yellow_3 {
-    width: 430px;
-    height: 360px;
-    background-color: yellow;
-    margin: 20px 10px 10px 20px;   
-    float: left;
-}
-    
-.yellow_4 {
-    width: 430px;
-    height: 360px;
-    background-color: yellow;
-    margin: 20px 10px 20px 10px;   
-    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 .box_1 {
@@ -81,6 +69,6 @@ div {
     height: 200px;
     width: 920px;
     float: left;
-    background-color: aquamarine;
+    background-color: green;
     
 }
