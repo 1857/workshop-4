@@ -1,0 +1,164 @@
+div {
+    outline: 1px solid black;
+}
+
+.container {
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    background-color: blue;
+    height: 100px;
+    width: 920px;
+}
+
+.thinbox {
+    background-color: yellow;
+    height: 60px;
+    width: 280px;
+    margin: 20px;
+    float: left;
+}
+
+.thinbox_2 {
+    background-color: yellow;
+    height: 60px;
+    width: 580px;
+    margin-top: 20px;
+    float: left;
+}
+
+.logo {
+    background-color: yellow;
+    width: 160px;
+    height: 160px;
+    float: right;
+    margin-right: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
+
+.logo_2 {
+    background-color: yellow;
+    width: 160px;
+    height: 160px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+.long {
+    background-color: yellow;
+    width: 880px;
+    height: 160px;
+    margin: 20px;
+    float: left;
+}
+
+.thicc {
+    background-color: yellow;
+    width: 280px;
+    height: 280px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    float:left;
+}
+
+.blue_box {
+    background-color: blue;
+    height: 820px;
+    width: 920px;
+}
+
+.green_box {
+    background-color: green;
+    height: 700px;
+    width: 920px;
+}
+
+.thin {
+    background-color: yellow;
+    height: 100px;
+    width: 880px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+.thin_2 {
+    background-color: yellow;
+    width: 280px;
+    height: 478px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    float:left;
+}
+
+.red_box_2 {
+    background-color: red;
+    height: 560px;
+    width: 920px;
+}
+
+.red_box {
+    background-color: red;
+    height: 505px;
+    width: 920px;
+}
+
+.small_box {
+    background-color: yellow;
+    height: 205px;
+    width: 205px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.smallbox {
+    background-color: yellow;
+    height: 205px;
+    width: 205px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.bigbox {
+    background-color: yellow;
+    height: 205px;
+    width: 430px;
+    float: left;
+    margin-left: 20px;
+}
+
+.large {
+    background-color: yellow;
+    height: 400px;
+    width: 580px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.box_red {
+    background-color: yellow;
+    width: 280px;
+    height: 200px;
+    float: left;
+    margin-top: 20px;
+}
+
+.footer {
+    height: 200px;
+    width: 920px;
+    float: left;
+    background-color: green;
+    
+}
